@@ -5,8 +5,13 @@
 }*/
 
 /* SELETOR DE FILHO */
-
-li>a {
+/*
+span>a {
     color: red;
     text-decoration: none;
+} */
+
+/* SELETOR DE DESCENDENTE   */
+p a{
+    color: green;
 }
