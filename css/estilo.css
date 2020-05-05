@@ -12,6 +12,13 @@ span>a {
 } */
 
 /* SELETOR DE DESCENDENTE   */
-p a{
+/*
+div a{
     color: green;
+} */
+
+/* SELETOR DE IRMÃO ADJACENTE   */
+
+h1+p{
+    color: red;
 }
