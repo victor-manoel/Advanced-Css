@@ -18,7 +18,13 @@ div a{
 } */
 
 /* SELETOR DE IRMÃO ADJACENTE   */
-
+/*
 h1+p{
     color: red;
-}
+} */
+
+/* SELETOR DE IRMÃO GERAL   */
+/*
+h1~p{
+
+} */
