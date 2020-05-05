@@ -1,0 +1,12 @@
+/************************************** SELETOR UNIVERSAL */
+/*
+*{
+    border: 1px solid red;
+}*/
+
+/* SELETOR DE FILHO */
+
+li>a {
+    color: red;
+    text-decoration: none;
+}
