@@ -8,3 +8,17 @@
 color: red;
 } */
 
+*{
+    color: red;
+}
+
+h2{ /*terceiro na ordem de especificidade*/
+    color: red;
+}
+h2.verde{ /*segundo na ordem de especificidade*/
+    color: green;
+}
+
+h2#amarelo{ /*primeiro na ordem de especificidade*/
+    color: yellow;
+}
