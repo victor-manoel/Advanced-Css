@@ -1,4 +1,10 @@
-body{
-    color: red;
-    border: 1px solid blue;
+/*important é utilizado como uma exceção*/
+/*
+#pagina p{
+    color: blue !important; 
 }
+
+#pagina p{
+color: red;
+} */
+
