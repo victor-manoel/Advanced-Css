@@ -21,7 +21,6 @@ ul a{
     width: 200px;
     height: 40px;
     display: block;
-    border: 1px solid red;
     color: black;
     text-decoration: none;
     text-indent: 40px;
@@ -31,4 +30,5 @@ ul a{
 
 a:hover{
     background-position: right bottom;
+    color: white;
 }
