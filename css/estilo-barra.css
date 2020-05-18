@@ -32,3 +32,7 @@ a:hover{
     background-position: right bottom;
     color: white;
 }
+
+body{
+    background-color: turquoise;
+}
