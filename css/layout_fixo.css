@@ -15,3 +15,22 @@ body{
     text-align: center;
     line-height: 100px;
 }
+
+#conteudo{
+    width: 520px;
+    float: right;
+}
+
+#navegacao{
+    width: 180px;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #d1d1d1;
+}
+
+rodape{
+    clear: both;
+    background: #c4c4c4;
+    padding: ;
+}
