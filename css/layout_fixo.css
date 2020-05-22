@@ -27,6 +27,8 @@ body{
 }
 
 #conteudo-secundario{
+    padding-left: 20px;
+    padding-right: 20px;
     width: 180px;
     float: right;
     background: #d1d1d1;
