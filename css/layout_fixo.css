@@ -29,8 +29,16 @@ body{
     background: #d1d1d1;
 }
 
-rodape{
+#navegacao ul {
+    list-style: none;
+}
+
+#navegacao li a {
+    text-decoration: none;
+}
+
+#rodape{
     clear: both;
     background: #c4c4c4;
-    padding: ;
+    padding: 5px;
 }
