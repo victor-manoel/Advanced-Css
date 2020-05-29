@@ -4,7 +4,7 @@ body{
 }
 
 #container{
-    width: 720px;
+    width: 85%;
     margin: 0 auto;
     background: #fff;
 }
@@ -17,8 +17,16 @@ body{
 }
 
 #conteudo{
-    width: 520px;
+    width: 75%;
     float: right;
+}
+
+#navegacao{
+    width: 23%;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #d1d1d1;
 }
 
 #conteudo-principal{
@@ -40,13 +48,6 @@ body{
     padding-right: 20px;
 }
 
-#navegacao{
-    width: 180px;
-    float: left;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    background: #d1d1d1;
-}
 
 #navegacao ul {
     list-style: none;
