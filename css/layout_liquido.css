@@ -4,9 +4,10 @@ body{
 }
 
 #container{
-    width: 85%;
+    width: 90%;
     margin: 0 auto;
     background: #fff;
+    min-width: 720px;
 }
 
 #marca{
@@ -30,12 +31,12 @@ body{
 }
 
 #conteudo-principal{
-    width: 320px;
+    width: 63%;
     float: left;
 }
 
 #conteudo-secundario{
-    width: 180px;
+    width: 34%;
     float: right;
     background: #d1d1d1;
 }
